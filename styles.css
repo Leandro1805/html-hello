@@ -1,0 +1,63 @@
+body
+{
+    background-color: lightgray;
+    margin:0;
+}
+h1
+{
+    margin:0 0 75px 0;
+    background-color: white;
+    font-family: 'Montserrat';
+    font-size: 40px;
+    font-weight: bold;
+    width:100%;
+    padding: 15px; 
+    padding-left: 300px;
+    
+}
+
+.fondo
+{
+    background-color: lightgray;
+}
+.caja_post
+{
+    background-color: white;
+    width:600px;
+    margin:auto;
+    margin-bottom: 30px;
+    margin-top:30px;
+    border: 1px solid lightgray;
+}
+img
+{
+    width:100%;
+}
+.titulo_caja
+{
+    font-size:14px;
+    padding:3px;
+    padding-left: 15px;
+    color:black;
+    font-weight: bold;
+    font-family: 'Montserrat';
+    background-color: white;
+}
+.descripcion p
+{
+    margin-left:24px;
+    margin-right:15px;
+    font-family:'Montserrat';
+    padding-bottom: 17px;
+    background-color: white;
+    font-size:17px;
+    
+}
+.fecha
+{
+    float:right;
+    margin:0;
+    margin-right:13px;
+    transform:translateY(-37px);
+    color:gray;
+}
